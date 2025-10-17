@@ -1,0 +1,34 @@
+C:\Users\dell\OneDrive\Desktop\Ping Pad\bin\Release\net8.0-windows\Ping Pad.exe
+C:\Users\dell\OneDrive\Desktop\Ping Pad\bin\Release\net8.0-windows\Ping Pad.deps.json
+C:\Users\dell\OneDrive\Desktop\Ping Pad\bin\Release\net8.0-windows\Ping Pad.runtimeconfig.json
+C:\Users\dell\OneDrive\Desktop\Ping Pad\bin\Release\net8.0-windows\Ping Pad.dll
+C:\Users\dell\OneDrive\Desktop\Ping Pad\bin\Release\net8.0-windows\Ping Pad.pdb
+C:\Users\dell\OneDrive\Desktop\Ping Pad\bin\Release\net8.0-windows\CommunityToolkit.WinUI.Notifications.dll
+C:\Users\dell\OneDrive\Desktop\Ping Pad\bin\Release\net8.0-windows\MaterialDesignColors.dll
+C:\Users\dell\OneDrive\Desktop\Ping Pad\bin\Release\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\dell\OneDrive\Desktop\Ping Pad\bin\Release\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\dell\OneDrive\Desktop\Ping Pad\obj\Release\net8.0-windows\Ping Pad.csproj.AssemblyReference.cache
+C:\Users\dell\OneDrive\Desktop\Ping Pad\obj\Release\net8.0-windows\Views\ReminderDialog.baml
+C:\Users\dell\OneDrive\Desktop\Ping Pad\obj\Release\net8.0-windows\Views\StickyNoteWindow.baml
+C:\Users\dell\OneDrive\Desktop\Ping Pad\obj\Release\net8.0-windows\Views\ToastWindow.baml
+C:\Users\dell\OneDrive\Desktop\Ping Pad\obj\Release\net8.0-windows\App.baml
+C:\Users\dell\OneDrive\Desktop\Ping Pad\obj\Release\net8.0-windows\MainWindow.g.cs
+C:\Users\dell\OneDrive\Desktop\Ping Pad\obj\Release\net8.0-windows\Views\ReminderDialog.g.cs
+C:\Users\dell\OneDrive\Desktop\Ping Pad\obj\Release\net8.0-windows\Views\StickyNoteWindow.g.cs
+C:\Users\dell\OneDrive\Desktop\Ping Pad\obj\Release\net8.0-windows\Views\ToastWindow.g.cs
+C:\Users\dell\OneDrive\Desktop\Ping Pad\obj\Release\net8.0-windows\App.g.cs
+C:\Users\dell\OneDrive\Desktop\Ping Pad\obj\Release\net8.0-windows\Ping Pad_Content.g.cs
+C:\Users\dell\OneDrive\Desktop\Ping Pad\obj\Release\net8.0-windows\Ping Pad_MarkupCompile.cache
+C:\Users\dell\OneDrive\Desktop\Ping Pad\obj\Release\net8.0-windows\Ping Pad_MarkupCompile.lref
+C:\Users\dell\OneDrive\Desktop\Ping Pad\obj\Release\net8.0-windows\MainWindow.baml
+C:\Users\dell\OneDrive\Desktop\Ping Pad\obj\Release\net8.0-windows\Ping Pad.g.resources
+C:\Users\dell\OneDrive\Desktop\Ping Pad\obj\Release\net8.0-windows\Ping Pad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\OneDrive\Desktop\Ping Pad\obj\Release\net8.0-windows\Ping Pad.AssemblyInfoInputs.cache
+C:\Users\dell\OneDrive\Desktop\Ping Pad\obj\Release\net8.0-windows\Ping Pad.AssemblyInfo.cs
+C:\Users\dell\OneDrive\Desktop\Ping Pad\obj\Release\net8.0-windows\Ping Pad.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Desktop\Ping Pad\obj\Release\net8.0-windows\Ping Pad.csproj.Up2Date
+C:\Users\dell\OneDrive\Desktop\Ping Pad\obj\Release\net8.0-windows\Ping Pad.dll
+C:\Users\dell\OneDrive\Desktop\Ping Pad\obj\Release\net8.0-windows\refint\Ping Pad.dll
+C:\Users\dell\OneDrive\Desktop\Ping Pad\obj\Release\net8.0-windows\Ping Pad.pdb
+C:\Users\dell\OneDrive\Desktop\Ping Pad\obj\Release\net8.0-windows\Ping Pad.genruntimeconfig.cache
+C:\Users\dell\OneDrive\Desktop\Ping Pad\obj\Release\net8.0-windows\ref\Ping Pad.dll

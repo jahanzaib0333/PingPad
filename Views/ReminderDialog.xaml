@@ -1,0 +1,38 @@
+﻿<Window x:Class="PingPad.Views.ReminderDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        Title="Set Reminder" Height="220" Width="320"
+        WindowStartupLocation="CenterOwner" ResizeMode="NoResize" WindowStyle="ToolWindow">
+    <Grid Margin="12">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Select date:" FontWeight="Bold" />
+        <DatePicker x:Name="Dp" Grid.Row="1" Margin="0,6,0,8"/>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" Margin="0,0,0,6">
+            <StackPanel Orientation="Vertical" Margin="0,0,8,0">
+                <TextBlock Text="Time (HH:mm)" FontWeight="Bold" />
+                <TextBox x:Name="TbTime" Width="120" Text="12:00" Margin="0,6,0,0"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Vertical">
+                <TextBlock Text="AM / PM" FontWeight="Bold" />
+                <ComboBox x:Name="CbAmPm" Width="80" Margin="0,6,0,0">
+                    <ComboBoxItem Content="AM"/>
+                    <ComboBoxItem Content="PM"/>
+                </ComboBox>
+            </StackPanel>
+        </StackPanel>
+
+        <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,12,0,0">
+            <Button Content="Cancel" Click="Cancel_Click" Width="80" Margin="6,0"/>
+            <Button Content="Save" Click="Save_Click" Width="80" Margin="6,0"/>
+        </StackPanel>
+    </Grid>
+</Window>
